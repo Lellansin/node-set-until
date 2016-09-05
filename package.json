@@ -1,0 +1,25 @@
+{
+  "name": "set-until",
+  "version": "0.0.1",
+  "description": "Calls a function until a specified time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lellansin/node-set-until.git"
+  },
+  "keywords": [
+    "setUntil"
+  ],
+  "author": "lellansin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lellansin/node-set-until/issues"
+  },
+  "homepage": "https://github.com/Lellansin/node-set-until#readme",
+  "dependencies": {
+    "cron-parser": "^2.1.1"
+  }
+}
